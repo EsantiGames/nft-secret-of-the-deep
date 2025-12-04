@@ -71,9 +71,8 @@ contract SecretOfTheDeepNFT is ERC1155, Ownable, IERC4906 {
         _baseURI = "https://raw.githubusercontent.com/davevurby/nft-secret-of-the-deep/refs/heads/main/metadata/{id}.json";
         
         // Initialize some sample tokens
-        _createToken(1, "GOLD", "Gold", 25);
-        _createToken(2, "SILVER", "Silver", 20);
-        _createToken(3, "BRONZE", "Bronze", 50);
+        _createToken(1, "DIAMOND", "Diamond", 5);
+        _createToken(2, "PLATINUM", "Platinum", 10);
     }
     
     /**
