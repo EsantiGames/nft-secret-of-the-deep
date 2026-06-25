@@ -57,7 +57,7 @@ contract SecretOfTheDeepNFT is ERC1155, Ownable, IERC4906 {
     string private _baseURI;
     
     // Contract URI for collection metadata
-    string private _contractURI = "https://raw.githubusercontent.com/EsantiGames/nft-secret-of-the-deep/main/metadata/contract.json
+    string private _contractURI = "https://raw.githubusercontent.com/EsantiGames/nft-secret-of-the-deep/main/metadata/contract.json";
     
     // USDC token address (Polygon Native USDC)
     address public usdcAddress = 0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359;
