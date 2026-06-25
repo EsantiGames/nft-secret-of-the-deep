@@ -68,7 +68,7 @@ contract SecretOfTheDeepNFT is ERC1155, Ownable, IERC4906 {
     event DividendPaid(address indexed to, uint256 indexed amount);
     
     constructor() ERC1155("") Ownable(msg.sender) {
-        _baseURI = "https://raw.githubusercontent.com/EsantiGames/nft-secret-of-the-deep/main/metadata/{id}.json
+        _baseURI = "https://raw.githubusercontent.com/EsantiGames/nft-secret-of-the-deep/main/metadata/{id}.json";
         // Initialize some sample tokens
         _createToken(1, "GOLD", "Gold", 25);
         _createToken(2, "SILVER", "Silver", 20);
