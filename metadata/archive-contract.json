@@ -1,6 +1,6 @@
 {
-  "name": "ESOD Archive",
+  "name": "ESOD Testing",
   "description": "Archived legacy collection. This collection is no longer used for new NFT issues.",
-  "symbol": "ESOD-ARCHIVE",
+  "symbol": "ESOD-Test",
   "image": "https://raw.githubusercontent.com/EsantiGames/nft-secret-of-the-deep/main/metadata/images/cover.png"
 }
