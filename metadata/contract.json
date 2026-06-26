@@ -1,6 +1,6 @@
 {
-    "name": "Esantirion: Secret of the Deep",
-    "description": "The official binding declaration of Esanti Games (Oficiální závazné prohlášení Esanti Games):\n🇨🇿 https://www.esanti.games/cs/investice/\n🇬🇧 https://www.esanti.games/investment/",
-    "symbol": "ESOTD",
-    "image": "https://raw.githubusercontent.com/davevurby/nft-secret-of-the-deep/refs/heads/emission-2/metadata/images/cover.png"
+  "name": "ESOD Archive",
+  "description": "Archived legacy collection. This collection is no longer used for new NFT issues.",
+  "symbol": "ESOD-ARCHIVE",
+  "image": "https://raw.githubusercontent.com/EsantiGames/nft-secret-of-the-deep/main/metadata/images/cover.png"
 }
