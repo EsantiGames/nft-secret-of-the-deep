@@ -1,15 +1,13 @@
 {
   "name": "Esantirion: Secret of the Deep",
-  "description": "Official NFT investment collection of Esanti Games.",
+  "symbol": "ESOTD",
+  "description": "The official binding declaration of Esanti Games (Oficiální závazné prohlášení Esanti Games):\n🇨🇿 https://www.esanti.games/cs/investice/\n🇬🇧 https://www.esanti.games/investment/",
 
   "image": "https://raw.githubusercontent.com/EsantiGames/nft-secret-of-the-deep/main/metadata/images/cover.png",
-
+  "featured_image": "https://raw.githubusercontent.com/EsantiGames/nft-secret-of-the-deep/main/metadata/images/cover.png",
   "banner_image": "https://raw.githubusercontent.com/EsantiGames/nft-secret-of-the-deep/main/metadata/images/banner.png",
 
-  "featured_image": "https://raw.githubusercontent.com/EsantiGames/nft-secret-of-the-deep/main/metadata/images/cover.png",
-
   "external_link": "https://www.esanti.games",
-
   "seller_fee_basis_points": 0,
   "fee_recipient": "0x0000000000000000000000000000000000000000"
 }
